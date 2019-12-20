@@ -13,5 +13,9 @@ namespace Test2.Controllers
         {
             return View();
         }
+        public ActionResult Home()
+        {
+            return View();
+        }
     }
 }
