@@ -18,5 +18,9 @@ namespace Test2.Controllers
             //Hai
             return View();
         }
+        public ActionResult Updte()
+        {
+            return View();
+        }
     }
 }
