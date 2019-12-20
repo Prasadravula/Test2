@@ -15,6 +15,7 @@ namespace Test2.Controllers
         }
         public ActionResult Home()
         {
+            //Hai
             return View();
         }
     }
